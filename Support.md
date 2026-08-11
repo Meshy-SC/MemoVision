@@ -53,7 +53,7 @@ A: Each world plays by its own rule on top of ordinary matching — Timed Peek, 
 A: Every tenth level tightens the screws — a bigger board with about 20% less time on the clock. They're the checkpoint for whether the world's mechanic has actually clicked.
 
 **Q: How do the worlds work?**
-A: MemoVision has 10 worlds — from Iron to Legend — each with 100 memory levels. The Iron world is completely free, all 100 levels. For every other world, level 1 is free to try, and the remaining 99 levels are unlocked with a one-time purchase — either that single world, or every paid world at once with the all-worlds bundle.
+A: MemoVision has 10 worlds — from Iron to Legend — each with 100 levels. The Iron world is completely free, all 100 levels. For every other world, level 1 is free to try, and the remaining 99 levels are unlocked with a one-time purchase — either that single world, or every paid world at once with the all-worlds bundle.
 
 **Q: Do I have to finish one world before starting another?**
 A: No. Progression runs *within* a world: level 1 of every world is always open, and each later level unlocks when you clear the one before it in that same world. Buying a world makes it immediately playable regardless of how far you've come elsewhere.
@@ -94,4 +94,3 @@ A: No. MemoVision does not collect personal information or share any data with t
 ---
 
 *MemoVision is developed by Meshy SC.*
-
