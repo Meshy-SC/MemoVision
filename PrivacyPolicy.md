@@ -4,7 +4,7 @@
 
 ## Overview
 
-MemoVision ("the App") is a family-friendly memory card-matching game designed for all ages, available on iPhone, iPad, Mac, and Apple Vision Pro. We are committed to protecting your privacy — especially when it comes to young players. This policy explains what information the App collects, how it is used, and how it is protected.
+MemoVision ("the App") is a family-friendly card-matching puzzle game designed for all ages, available on iPhone, iPad, Mac, and Apple Vision Pro. We are committed to protecting your privacy — especially when it comes to young players. This policy explains what information the App collects, how it is used, and how it is protected.
 
 ---
 
@@ -137,4 +137,3 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 
 *This privacy policy applies to MemoVision on all Apple platforms: iOS, iPadOS, macOS, and visionOS.*
-
