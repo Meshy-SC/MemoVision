@@ -89,7 +89,7 @@ A: Yes. Every board is built on your device from the level number itself, so not
 A: The app is built with SwiftUI and follows the system text sizes, so it responds to Dynamic Type. Menus, world rows, level cells, and the in-game toolbar carry VoiceOver labels and hints. If there's an accessibility improvement that would help you play, please write to us — we want to hear about it.
 
 **Q: Is my data shared with third parties?**
-A: No. MemoVision does not collect personal information or share any data with third parties. For full details, see our [Privacy Policy](https://github.com/Meshy-SC/MemoVision/blob/main/PrivacyPolicy.md).
+A: No. MemoVision does not collect personal information or share any data with third parties. For full details, see our [Privacy Policy](https://meshy-sc.github.io/MemoVision/privacy/).
 
 ---
 
