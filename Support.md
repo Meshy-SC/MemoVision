@@ -4,6 +4,16 @@ Thank you for playing MemoVision! If you need help, have a question, or want to 
 
 ---
 
+## Report an Issue
+
+To report a bug or request a fix, open a GitHub issue and fill in the form there:
+
+**https://github.com/Meshy-SC/MemoVision/issues/new**
+
+You can also browse existing reports on the [GitHub Issues page](https://github.com/Meshy-SC/MemoVision/issues).
+
+---
+
 ## Contact Us
 
 For any questions, feedback, or support requests, please email us at:
@@ -24,12 +34,6 @@ If you've encountered a bug or crash, please include the following details in yo
 - OS version (e.g., iOS 26.0, macOS 26.0, visionOS 26.0)
 - The MemoVision version (**Settings → About → Version**)
 - A description of what happened and what you were doing at the time
-
-You can also report issues directly on GitHub. Open a new issue here:
-
-**https://github.com/Meshy-SC/MemoVision/issues/new**
-
-Or browse existing reports on the [GitHub Issues page](https://github.com/Meshy-SC/MemoVision/issues).
 
 ---
 
