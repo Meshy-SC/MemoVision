@@ -25,7 +25,11 @@ If you've encountered a bug or crash, please include the following details in yo
 - The MemoVision version (**Settings → About → Version**)
 - A description of what happened and what you were doing at the time
 
-You can also report issues on our [GitHub Issues page](https://github.com/Meshy-SC/MemoVision/issues).
+You can also report issues directly on GitHub. Open a new issue here:
+
+**https://github.com/Meshy-SC/MemoVision/issues/new**
+
+Or browse existing reports on the [GitHub Issues page](https://github.com/Meshy-SC/MemoVision/issues).
 
 ---
 

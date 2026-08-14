@@ -213,6 +213,22 @@ a:hover {
   background: #d5ebe5;
 }
 
+.button {
+  display: inline-block;
+  margin: 0.35rem 0 0.75rem;
+  padding: 0.7rem 1.15rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #f4fffb;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #0a5246;
+  color: #f4fffb;
+}
+
 .faq details {
   border-top: 1px solid var(--line);
   padding: 0.95rem 0;
